@@ -3,4 +3,4 @@ title: Community-Powered
 order: 2
 ---
 
-Our website is powered by the community and its knowledge. It also has a translator community that aims to localize this website [in every language](http://ramong.us/languages).
+Nuestro sitio web está impulsado por la comunidad y su conocimiento. También tiene una comunidad de traductores que tiene como objetivo localizar este sitio web [en todos los idiomas](http://ramong.us/languages).

@@ -1,6 +1,6 @@
 ---
 id: tutorial
-title: "Tutorial: Intro to Among Us"
+title: "Tutorial: Introducción to Among Us"
 layout: tutorial
 sectionid: tutorial
 permalink: tutorial/tutorial.html
@@ -12,12 +12,12 @@ redirect_from:
   - "docs/tutorial-zh-CN.html"
 ---
 
-This tutorial doesn't assume any existing Among Us knowledge.
+Este tutorial no asume ningún conocimiento previo sobre Among Us.
 
-## Before We Start the Tutorial {#before-we-start-the-tutorial}
+## Antes de empezar el tutorial {#before-we-start-the-tutorial}
 
-We will be playing a mock game of Among Us during this tutorial. **You might be tempted to skip it because you're not interested -- but give it a chance.** The techniques you'll learn in the tutorial are fundamental to winning Among Us.
+Jugaremos un juego simulado de Among Us durante este tutorial. **Es posible que tenga la tentación de omitirlo porque no está interesado, pero déle una oportunidad.** Las técnicas que aprenderá en el tutorial son fundamentales para ganar Among Us.
 
 >Tip
 >
->This tutorial is designed for people who prefer to **learn by doing**. If you prefer learning concepts from the ground up, check out our [step-by-step guide](/docs/hello-world.html). You might find this tutorial and the guide complementary to each other.
+>Este tutorial está diseñado para personas que prefieren **aprender haciendo**. Si tu prefieres aprender los conceptos desde el principio, revisa nuestra [guía paso a paso](/docs/lobbies.html). Podrías encontrar este tutorial y la guía, complementarias entre sí.

@@ -1,21 +1,21 @@
 community:
-  title: Community
+  title: Comunidad
 
 docs:
-  title: Docs
+  title: Documentación
 
 more:
-  title: More
+  title: Más
   items:
     - title: Tutorial
       to: /tutorial/tutorial.html
     - title: Blog
       to: /blog
-    - title: Acknowledgements
+    - title: Agradecimientos
       to: /acknowledgements.html
 
 channels:
-  title: Channels
+  title: Canales
   items:
     - title: Reddit
       to: https://reddit.com/r/amongus

@@ -3,4 +3,4 @@ title: Free
 order: 0
 ---
 
-/r/AmongUs and its related endeavours will always be free. We will never charge you for access to the information presented on this website, nor will we place ads on it.
+/r/AmongUs y sus esfuerzos relacionados siempre serán gratuitos. Nunca le cobraremos por el acceso a la información presentada en este sitio web, ni colocaremos anuncios en él.
